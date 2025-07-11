@@ -86,7 +86,7 @@ output/
 
 **Yasir Farooqui**  
 MSc AI & ML | Researcher | Developer  
-📫 [LinkedIn](https://www.linkedin.com/) | ✉️ [your-email@example.com]
+📫 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yasir-farooqui-045b36238/)) | ✉️ [farooquiyasir140@gmail.com]
 
 ## 📜 License
 
